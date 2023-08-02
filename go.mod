@@ -1,4 +1,4 @@
-module goxml2json
+module github.com/KlotzAndrew/goxml2json
 
 go 1.20
 
